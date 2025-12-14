@@ -73,7 +73,7 @@ body{
     font-weight: bold;
 }
 
-/* --- Pied de Page --- */
+/*Pied de Page*/
 .footer {
     background-color: #a03c7e;
     color: rgb(247, 247, 247);
@@ -87,7 +87,7 @@ body{
     margin: 0;
 }
 
-/* --- Formulaire de Contact --- */
+/*Formulaire de Contact*/
 .form {
     max-width: 600px;
     margin: 0 auto;
@@ -109,7 +109,7 @@ body{
     outline: none;
 }
 
-/* --- Sections Générales --- */
+/*Sections Générales*/
 .section{
     padding: 50px 0;
     border-bottom: 1px solid #eee;
@@ -122,4 +122,13 @@ body{
     margin-bottom: 30px;
     position: relative;
     padding-bottom: 10px;
+}
+
+/*tableau*/
+.tableau{
+    background-color: #a03c7e;
+    color: #ffffff;
+    text-align: center;
+    border-bottom: 2px solid #ffffff;
+    padding: auto;
 }
